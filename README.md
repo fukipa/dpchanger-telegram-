@@ -1,5 +1,5 @@
 Make sure you are using Python 3.6+ for the code to run successfully. You can find out using the python -V command.
-Download the source code. In the terminal, write git clone https://github.com/fukipa/telegram-avatar-time.git or just download the zip.
+Download the source code. In the terminal, write git clone the repository or just download the zip.
 For a successful launch, you must:
 
 In the config / config.py file, change the api props to your own.
