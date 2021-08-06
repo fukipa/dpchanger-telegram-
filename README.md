@@ -7,4 +7,4 @@ While in the same folder as requirements.txt, enter pip install -r requirements.
 While in the same folder as main.py, enter main.py in python terminal.
 
 
-This is shamelessly ripped over from https://github.com/mumtozvalijonov/telegram-avatar-time.
+This is shamelessly ripped and inspired from from https://github.com/mumtozvalijonov/telegram-avatar-time.  The Edvard Munch paintings are from https://www.nasjonalmuseet.no/
